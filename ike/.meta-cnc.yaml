@@ -35,6 +35,10 @@ variables:
     description: ike shared key
     default: 1234abc
     type_hint: text
+  - name: more
+    description: something else
+    default: whatever
+    type_hint: text
 
 # ---------------------------------------------------------------------
 # end of variables section
